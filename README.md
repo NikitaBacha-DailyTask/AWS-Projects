@@ -9,6 +9,9 @@ To follow along, you’ll need:
 
 ![image](https://github.com/user-attachments/assets/991ad802-15af-4611-851a-10b90cfce6ce)
 
+![image](https://github.com/user-attachments/assets/1ae90325-0998-4f2e-a265-74870f0c26a4)
+
+
 Here’s all the code you’ll need to build the application:
 
 index-ORIGINAL.html: https://drive.google.com/file/d/1D4GFqjos_MmCES7wHbn4ccD6Gq2ZCuul/view
