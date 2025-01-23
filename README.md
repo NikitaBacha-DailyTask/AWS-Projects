@@ -29,3 +29,24 @@ index.html: https://drive.google.com/file/d/1fCFDH1PcT6Gw0rZUIsJnQf8xow4GEdv_/vi
 
 # All the Best....
 
+
+
+# AWS Project 2: 
+
+Amazon Simple Storage Service (S3) can be used as inexpensive object storage (think: files, images, videos, logs, etc.).  But did you know it can also be used to host a static website?  Static meaning no server-side code, but it's perfect for simple HTML, images and even some client-side scripts.
+
+# How to Create a Static Website for Free Using Amazon S3 / Host a Static Website for Free Using Amazon S3
+Host a static website on Amazon S3 for free or almost free!
+
+ – Reviewing the Free Tier for Amazon S3 <br>
+ – S3 can only host static websites (no server-side code) <br>
+ – Creating a new S3 bucket to host our website <br>
+ – Enabling static website hosting on the S3 bucket<br>
+ – Access denied! Allowing public access to the bucket<br>
+ – Updating the bucket policy to allow read access to everyone<br>
+ – Creating the HTML pages for your static website<br>
+ – Uploading the index.html and image files to the S3 bucket<br>
+ – Viewing the static webpage in S3<br>
+
+![image](https://github.com/user-attachments/assets/3fb2756e-c27a-4a01-91bb-4ece5fa36201)
+
