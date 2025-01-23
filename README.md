@@ -32,6 +32,7 @@ index.html: https://drive.google.com/file/d/1fCFDH1PcT6Gw0rZUIsJnQf8xow4GEdv_/vi
 # -----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # AWS Project 2: 
+# Hosting a Static Website Using Amazon S3
 
 Amazon Simple Storage Service (S3) can be used as inexpensive object storage (think: files, images, videos, logs, etc.).  But did you know it can also be used to host a static website?  Static meaning no server-side code, but it's perfect for simple HTML, images and even some client-side scripts.
 
