@@ -17,5 +17,5 @@ Here’s all the code you’ll need to build the application:
 • PowerOfMathFunction - Lambda-FINAL.txt: https://drive.google.com/file/d/1ao_8hKZXEmL4pNeeWEHdaWmUNdLPGAJb/view
 • index.html: https://drive.google.com/file/d/1fCFDH1PcT6Gw0rZUIsJnQf8xow4GEdv_/view
 
-# All the Best...
+# All the Best....
 
