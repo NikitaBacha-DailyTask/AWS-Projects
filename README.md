@@ -27,7 +27,7 @@ PowerOfMathFunction - Lambda-FINAL.txt: https://drive.google.com/file/d/1ao_8hKZ
 
 index.html: https://drive.google.com/file/d/1fCFDH1PcT6Gw0rZUIsJnQf8xow4GEdv_/view
 
-# All the Best....
+# All the Best....Make time for yourself and do this work yourself.
 
 # -----------------------------------------------------------------------------------------------------------------------------------------------------------
 
