@@ -12,9 +12,13 @@ To follow along, you’ll need:
 Here’s all the code you’ll need to build the application:
 
 index-ORIGINAL.html: https://drive.google.com/file/d/1D4GFqjos_MmCES7wHbn4ccD6Gq2ZCuul/view
+
 PowerOfMathFunction - https://drive.google.com/file/d/1ak_o_OKKBv5UFa7lcp2CMfKsh10tEAhi/view
+
 Execution Role Policy JSON.txt: https://drive.google.com/file/d/1xdko5AREleKbVfvj9MwRDpNqOzEl1qlj/view
+
 PowerOfMathFunction - Lambda-FINAL.txt: https://drive.google.com/file/d/1ao_8hKZXEmL4pNeeWEHdaWmUNdLPGAJb/view
+
 index.html: https://drive.google.com/file/d/1fCFDH1PcT6Gw0rZUIsJnQf8xow4GEdv_/view
 
 # All the Best....
