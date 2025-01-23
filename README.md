@@ -1,4 +1,5 @@
-# AWS Project 1: Architect and Build an End-to-End AWS Web Application from Scratch, Step by Step
+# AWS Project 1: 
+# Architect and Build an End-to-End AWS Web Application from Scratch, Step by Step
 
 To follow along, you’ll need:
 • A text editor (such as Notepad or Notepad++)
